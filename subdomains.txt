@@ -1,0 +1,9 @@
+www
+email
+mail
+root
+info
+ww2
+ns
+dns
+mx
